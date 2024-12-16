@@ -1,4 +1,11 @@
-# c-project-1
+# c-project
+
+
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
